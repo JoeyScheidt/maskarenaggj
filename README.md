@@ -1,4 +1,4 @@
-# Project Setup
+# Global Game Jam 2026
 
 ## Prerequisites
 
